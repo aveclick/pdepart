@@ -1,0 +1,32 @@
+.admin-buttons{
+    display: flex;
+    margin-top: 5px;
+}
+
+.admin-button{
+    margin-right: 5px;
+}
+
+.department-form .form-group{
+    margin-top: 10px;
+}
+
+.site-about{
+	padding-top: 50px;
+}
+
+.site-about h1{
+	text-align: center;
+}
+
+
+
+.about-container{
+	padding: 100px;
+	display: flex;
+}
+
+.about-container-text{
+	padding-left: 50px;
+	font-size: 18px;
+}
